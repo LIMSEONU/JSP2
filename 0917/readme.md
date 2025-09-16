@@ -95,8 +95,6 @@ Num | Subject | Writer | RegDate
 
 [페이지 네비게이션]
 [Prev] 1 2 3 4 5 [Next]
-
-
 ```
 
 ## 실행 방법
